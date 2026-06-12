@@ -1,0 +1,5 @@
+f=open("abc.txt",'a')
+f.write("\nGood morning students\n")
+f.write("\nWelcome to python class")
+print("\nData written to the file successfully")
+f.close()

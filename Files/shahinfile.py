@@ -1,0 +1,8 @@
+f=open("abc.txt",'w')
+f.write("welcome\n")
+f.write("to\n")
+f.write("college function\n")
+f.write("hello everyone\n")
+f.write("good afternoon\n")
+print("Data written to the file successfully")
+f.close()
